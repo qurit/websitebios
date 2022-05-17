@@ -8,6 +8,8 @@
 
 [Luke](LP.md)
 
+[Ali](Ali.md)
+
 
 This repository includes short bios for each member of Qurit.
 
