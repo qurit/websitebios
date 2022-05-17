@@ -3,6 +3,8 @@
 ## Table of Contents
 
 [Carlos Uribe](CU.md)
+[Fereshteh](FYR.md)
+[Luke](LP.md)
 
 
 This repository includes short bios for each member of Qurit.
