@@ -12,6 +12,8 @@
 
 [Elahe](EM_Bio.md)
 
+[Shahriar](MSRS.md)
+
 This repository includes short bios for each member of Qurit.
 
 Inline-style: 
