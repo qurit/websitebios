@@ -1,4 +1,4 @@
-My name is Shahriar, a Physics graduate student at UBC (Vancouver). 
+My name is Shahriar, a Physics graduate student at UBC (Vancouver). In my free time I like to get take walks around Vancouver. 
 
 Papers that I worked on:
 
