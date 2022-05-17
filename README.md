@@ -14,6 +14,8 @@
 
 [Shahriar](MSRS.md)
 
+[Shadab](SA.md)
+
 This repository includes short bios for each member of Qurit.
 
 Inline-style: 
