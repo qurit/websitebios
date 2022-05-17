@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[Carlos Uribe](cu.md)
+[Carlos Uribe](CU.md)
 
 
 This repository includes short bios for each member of Qurit.
