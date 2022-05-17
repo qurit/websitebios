@@ -10,6 +10,7 @@
 
 [Ali](Ali.md)
 
+[Elahe](EM_Bio.md)
 
 This repository includes short bios for each member of Qurit.
 
