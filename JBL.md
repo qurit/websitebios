@@ -1,1 +1,3 @@
-### Hello
+## Julia Brosch-Lenz, PhD
+
+Dr. Julia Brosch-Lenz joined Qurit lab in November 2021 as a Post-Doctoral fellow with a profound background in medical physics. She obtained her B.Sc. and M.Sc. degrees in physics from Ludwig Maximilian University (LMU) in Munich, Germany. During her PhD at the department of Nuclear Medicine at the LMU University Hospital, Munich, Germany, she focused on 3D image-based dosimetry for internal radionuclide therapies with <sup>90</sup>Y SIRT and <sup>177</sup>Lu-PSMA.
